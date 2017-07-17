@@ -17,3 +17,4 @@ function calculoIMC(peso,talla){
 }
 
 calculoIMC(peso,talla);
+
